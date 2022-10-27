@@ -39,7 +39,7 @@ Para adicionar uma partida é necessário ter um token, portanto a pessoa dever�
 <details>
 
   ```json
-    git clone git@github.com:Thiagofs1983/TrybeFutebolClube.git
+    git clone git@github.com:LucianooDutra/project-TFC-BackEnd.git
     cd TrybeFutebolClube/ 
     npm install
   ```
