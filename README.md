@@ -49,7 +49,8 @@ Para adicionar uma partida é necessário ter um token, portanto a pessoa dever�
 ## Executando a aplicação
 
 <details>
-  Para rodar a aplicação você vai precisar ter o [Thunder Client](https://www.thunderclient.com/) [Docker](https://docs.docker.com/engine/install/ubuntu/) instalado e usar os seguintes comandos no terminal:
+  Para rodar a aplicação você vai precisar ter o Docker instalado e usar os seguintes comandos no terminal:
+ - [Docker](https://docs.docker.com/engine/install/ubuntu/)
 
   ```json
     cd app/
