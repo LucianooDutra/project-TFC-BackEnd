@@ -27,11 +27,11 @@ Para adicionar uma partida é necessário ter um token, portanto a pessoa dever�
  - Sequelize;
  - Express;
  - MYSQL;
- - POO, Programação orientação a objetos
- - Docker
  - ES6;
  - JWT;
  - Bcrypt;
+ - Docker;
+ - POO, Programação orientação a objetos;
  - Testes: Mocha, Chai e Sinon;
 
 ## Instalando as dependências
